@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "rtlsdr_symbols")(type "KiCad")(uri "${KIPRJMOD}/rtlsdr_symbols.kicad_sym")(options "")(descr ""))
+)

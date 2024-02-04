@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Expansion_Card")(type "KiCad")(uri "${KIPRJMOD}/Expansion_Card.pretty")(options "")(descr ""))
+  (lib (name "Framework")(type "KiCad")(uri "${KIPRJMOD}/Framework.pretty")(options "")(descr ""))
+  (lib (name "design_specific")(type "KiCad")(uri "${KIPRJMOD}/design_specific.pretty")(options "")(descr ""))
+)
